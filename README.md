@@ -1,2 +1,2 @@
-# courseraCert
+# GitHub Certification (Coursera)
 Git &amp; GitHub foundation through IBM on Coursera. Completion includes certification
